@@ -1,0 +1,14 @@
+Your input temperature is 10.000000 °C 
+ Your output temperatures are
+ 50.000000 °F
+ 283.150000 K
+ 509.670000 R 
+ 135.000000 °De 
+ 3.300000 °N 
+ 8.000000 °Ré 
+ 12.750000 °Rø
+Your inputs are:
+ a = 17.271000 
+ b = 237.700000 °C
+ RH = 15.000000 
+ The dewpoint for your given input is -15.440964
